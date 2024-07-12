@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Employee>
+    <Name>Jeyashree</Name>
+    <JobTitle>Developer</JobTitle>
+     <Salary>70000</Salary>
+  </Employee>
+  <Employee>
+    <Name>Maha</Name>
+    <JobTitle>Designer</JobTitle>
+     <Salary>80000</Salary>
+  </Employee>
+  <Employee>
+    <Name>Saranya</Name>
+    <JobTitle>AssistantDeveloper</JobTitle>
+     <Salary>50000</Salary>
+  </Employee>
+</root>
+
